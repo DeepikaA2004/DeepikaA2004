@@ -1,4 +1,4 @@
-[![MasterHead](https://www.byui.edu/images/Mauricio%20Test/Data-Science-Banner.jpg)]
+![MasterHead](https://www.byui.edu/images/Mauricio%20Test/Data-Science-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Deepika.A</h1>
 <h3 align="center">An aspiring Data Scientist | Frontend Developer from India</h3>
 <img align="right" alt="coding"width="350" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
