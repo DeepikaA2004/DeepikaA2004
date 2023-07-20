@@ -33,6 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepikaa2004&show_icons=true&locale=en" alt="deepikaa2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikaa2004&" alt="deepikaa2004" /></p>
-<img align="left" alt="Codechef Badges"width="50" src="C:\Users\deepi\Downloads\codechef badges.png">
+<img align="left" alt="Codechef Badges"width="50" src="![codechef badges](https://github.com/DeepikaA2004/DeepikaA2004/assets/110418508/9a478a6c-ea7e-44ad-9c82-83d8126d77e7)">
+
+
+
 
 
