@@ -34,8 +34,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikaa2004&" alt="deepikaa2004" /></p>
 
+<h3 align="left">Badges :</h3>
 
-
-
+<p align="left"> <img src="https://www.credly.com/badges/9c85d84e-620f-4914-accd-d31f757e0675/public_url" alt="Cybersecurity Essentials" /> </p>
 
 
