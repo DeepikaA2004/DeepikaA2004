@@ -35,5 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikaa2004&" alt="deepikaa2004" /></p>
 
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c85d84e-620f-4914-accd-d31f757e0675" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
