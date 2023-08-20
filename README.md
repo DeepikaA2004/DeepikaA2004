@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepika_2105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepika_2105" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepika-a-646a45225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepika-a-646a45225" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepika2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepika-a-646a45225" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/deepika a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deepika a" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepikaarikesavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepikaarikesavan" height="30" width="40" /></a>
 <a href="https://instagram.com/deepi.i04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepi.i04" height="30" width="40" /></a>
