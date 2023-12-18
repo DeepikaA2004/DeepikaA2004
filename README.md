@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fdata-scientist-worker-minimal-infographic-banner-vector-30680386&psig=AOvVaw3Hl5YyVoadlfR8j7sbKbkh&ust=1702976722197000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjk2unQmIMDFQAAAAAdAAAAABAD)
+![MasterHead]("C:\Users\deepi\Downloads\GITHUB BANNER.jpg")
 <h1 align="center">Hi 👋, I'm Deepika.A</h1>
 <h3 align="center">An aspiring Data Scientist | Frontend Developer from India</h3>
 <img align="right" alt="coding"width="350" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
